@@ -1,5 +1,4 @@
-# LionBrowser1.1.2
-I know it says 1.0.3 it is updated.
+# LionBrowser
 This is just as it sounds, A web browser.
 Well, an older browser way before the times of Windows 7.
 I used the .net framework because it is really the easiest thing for me.
